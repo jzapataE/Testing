@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <stdint.h>
 #include "MK64F12.h"
 
